@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<frameset rows="30%,70%,5%">
+  <frame src="frame1.html">
+<frameset cols="70%,30%">
+  <frame src="MyFirstWebpage.html">
+  <frame src="frame2.html">
+</frameset>
+  <frame src="frame3.html">
+
+  <a href="frame1.html"></a>
+  <a href="MyFirstWebpage.html"></a>
+  <a href="frame2.html"></a>
+  <a href="frame3.html"></a>
+</frameset>
+
+</html>
